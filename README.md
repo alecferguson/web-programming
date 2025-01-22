@@ -6,4 +6,4 @@ What is a website and how to create one from scratch
 ...with up to four different languages.
 ...by searching through online documentation.
 ...and by following detailed specifications.
-...and overall, building design/development strategies across the "full-stack".
+...and overall, building design/development strategies across the "full-stack"
